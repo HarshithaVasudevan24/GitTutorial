@@ -7,3 +7,5 @@ I am fixing this bug.
 
 
 I am ingesting big data.
+
+Bug fixed
